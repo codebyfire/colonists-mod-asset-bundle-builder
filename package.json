@@ -1,0 +1,18 @@
+{
+  "name": "com.codebyfire.colonistsmodassetbundlebuilder",
+  "version": "1.0.0",
+  "displayName": "The Colonists Mod Asset Bundle Builder",
+  "description": "Adds an Editor panel which helps you build asset bundles for mods for The Colonists",
+  "unity": "2020.3",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Codebyfire",
+    "email": "hello@codebyfire.com",
+    "url": "http://codebyfire.com"
+  },
+  "type": "tool"
+}
