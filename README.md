@@ -4,7 +4,7 @@ A Unity Package to help you build asset bundles for mods for The Colonists (http
 
 ## Requirements
 
-* Unity 2019.4 (https://unity.com/releases/2019-lts)
+* Unity 2020.3 (https://unity.com/releases/2020-lts)
 
 ## Usage
 
